@@ -43,7 +43,7 @@ The design is achieved by manipulating the basic equation of full adder which wi
 
 ![image](https://user-images.githubusercontent.com/46755232/156216015-55d516e0-3188-4b68-ba49-bb37101af70d.png)
 
-28T full adder reference circuit
+*28T full adder reference circuit*
 
 
 ![28T FA](https://user-images.githubusercontent.com/46755232/156160340-50d90818-33d1-40ba-87ac-86ba5f8c2285.png)   
