@@ -12,6 +12,34 @@ FA
 
 
 
+FA
+
+
+
+Fa -DELAY
+
+A- SUM:
+
+
+A- CARRY:
+
+
+
+
+
+
+
+CSA:
+
+
+
+
+
+
+
+![Uploading image.png…]()
+
+
 Fa -DELAY
 
 A- SUM:
