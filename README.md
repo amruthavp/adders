@@ -1,4 +1,12 @@
-# FULL ADDER TOPOLOGIES AND ADDER CIRCUITS
+# FULL ADDER TOPOLOGIES AND CARRY SAVE ADDER
+
+
+TABLE OF CONTENTS:
+ABSTRACT
+https://github.com/amruthavp/adders/edit/main/README.md
+
+ABSTRACT
+
 
 Adders are functional building block of ALU, Digital signal processors, micro-processors. This work presents design and implementation of cmos based adders and full adder [ 28T, 20T , 8T ] topologies. The implementation was done on Synopsys Custom Compiler tool using 28nm technology node. Low power, area and high-speed are the principal factors to be considered in VLSI design of adders. Conventional 28T Full adder has higher power consumption and area but is more immune to noise and hence highly stable. Transmission Gate Full 20T Adder performs better than CMOS Full Adder in case of power dissipation as well as delay with lesser number of transistors being used. 8T full adder is better in terms of area and speed but is more succeptible to noise. Carry Save Adder is a kind of parallel multi-bit multi-input adder that stores the carry reducing the delay caused by propogation of the carry.
 
