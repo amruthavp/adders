@@ -35,7 +35,7 @@ Full adder logical expressions for Sum and Carry are stated below:
 ### 28T FULL ADDER 
 [ CONVENTIONAL FULL ADDER ]
 
-The topology consists of pull-up and pull-down network of PMOS and NMOS transistors. This design style offers good driving capability and full swing in output voltage. But the transistor count being more in the circuit results in higher power consumption and delay.
+The topology consists of pull-up and pull-down network of PMOS and NMOS transistors. This design style offers good driving capability and full swing in output voltage. But the transistor count being more in the circuit results in higher power consumption and delay. 
 
 The design is achieved by manipulating the basic equation of full adder which will optimize the implementation is stated below. 
 
@@ -57,6 +57,7 @@ The design is achieved by manipulating the basic equation of full adder which wi
                                          
   28T full adder cell view symbol
 
+The measured propogation delay is 340ps.
 
 ### 20T TRANSMISSION GATE FULL ADDER 
 
@@ -76,6 +77,7 @@ Transient analysis simulation waveforms
 20T full adder cell view symbol
 
 
+The measured propogation delay is 214ps.
 
 ### 8T FULL ADDER
 
