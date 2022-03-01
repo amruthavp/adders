@@ -2,7 +2,7 @@
 
 ## TABLE OF CONTENTS
 
-[ABSTRACT](https://github.com/amruthavp/adders/edit/main/README.md)
+[ABSTRACT](https://github.com/amruthavp/adders/edit/main/README.md#abstract)
 
 [FULL ADDER TOPOLOGIES](https://github.com/amruthavp/adders/edit/main/README.md)
 
