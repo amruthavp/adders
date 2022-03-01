@@ -35,12 +35,15 @@ Transistor count is reduced to 20 in this design. Due to the reduction in number
 
 
 ![image](https://user-images.githubusercontent.com/46755232/156162101-fcf34662-6fce-4b63-87a8-f4018acf9a72.png)
+
 20T full adder CMOS circuit
 
 ![image](https://user-images.githubusercontent.com/46755232/156162189-46e084c4-b47a-42bb-a93c-aaf8db6eb7f1.png)
+
 Transient analysis simulation waveforms
 
 ![image](https://user-images.githubusercontent.com/46755232/156165268-61b70fab-a094-4e6f-a6a4-6d38d456a8f2.png)
+
 20T full adder cell view symbol
 
 
@@ -50,13 +53,17 @@ Transient analysis simulation waveforms
 In the proposed 8T full adder sum is generated using 3T XOR module twice, and carry is generated using NMOS and PMOS pass transistor logic devices as shown in Fig.11. The bsic full adder equations  are modified so as to visualise the 8T full adder design. The modified equations for 8T full adder design are:
 
 ![image](https://user-images.githubusercontent.com/46755232/156181063-2570437a-9628-46d6-aa85-3dc8214ff58f.png)
-8T full adder CMOS circuit
+
 
 
 ![image](https://user-images.githubusercontent.com/46755232/156162240-168cfb7e-484a-4f64-a148-d34bce03bfe8.png)
-Transient analysis simulation waveforms
+
+8T full adder CMOS circuit
+
 
 ![image](https://user-images.githubusercontent.com/46755232/156162273-88388cf2-a35b-4a4f-a7a4-7c2235659bcd.png)
+
+Transient analysis simulation waveforms
 
 
 
@@ -68,6 +75,8 @@ CARRY SAVE ADDER USING 28T FULL ADDER:
 
 ![image](https://user-images.githubusercontent.com/46755232/156162328-c90a2a95-cd8b-4b81-999a-d2ad62e08f8e.png)
 
+CSA using 28T full adder circuit
+
 ![image](https://user-images.githubusercontent.com/46755232/156162352-d8c92d50-5002-44b6-a4dc-8d632407b046.png)
 Transient analysis of CSA simulation waveforms-1 
 
@@ -78,11 +87,15 @@ CARRY SAVE ADDER USING TRANSMISSION GATE FULL ADDER:
 
 ![image](https://user-images.githubusercontent.com/46755232/156164925-f8cab396-b1ee-438a-8789-b0e7061bbf16.png)
 
+CSA using 20T full adder circuit
+
 ![image](https://user-images.githubusercontent.com/46755232/156164828-85aff1ae-9984-4dcf-8fca-0073bd08a201.png)
+
 Transient analysis of CSA simulation waveforms-1
 
 ![image](https://user-images.githubusercontent.com/46755232/156164864-21450d32-60d7-4170-803c-1d0f26e204c1.png)
-Transient analysis of CSA simulation waveforms-2
+
+   Transient analysis of CSA simulation waveforms-2
 
 The main application of carry save algorithm is, well known for multiplier architecture and is used for efficient CMOS implementation of many wider variety of algorithms for high speed digital signal processing. 
 
