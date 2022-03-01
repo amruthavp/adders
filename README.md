@@ -75,7 +75,7 @@ Transient analysis simulation waveforms
 
 ### 8T FULL ADDER
 
-In the proposed 8T full adder sum is generated using 3T XOR module twice, and carry is generated using NMOS and PMOS pass transistor logic devices as shown in Fig.11. The bsic full adder equations  are modified so as to visualise the 8T full adder design. The modified equations for 8T full adder design are:
+In the proposed 8T full adder sum is generated using 3T XOR module twice, and carry is generated using NMOS and PMOS pass transistor logic devices as shown in below figure. The bsic full adder equations  are modified so as to visualise the 8T full adder design. The modified equations for 8T full adder design are:
 
 ![image](https://user-images.githubusercontent.com/46755232/156181063-2570437a-9628-46d6-aa85-3dc8214ff58f.png)
 
