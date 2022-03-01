@@ -6,7 +6,7 @@
 
 [FULL ADDER TOPOLOGIES](#FULL-ADDER-TOPOLOGIES)
 
-[28T FULL ADDER](#28T-FULL-ADDER-CONVENTIONAL-FULL-ADDER-)
+[28T FULL ADDER](#28T-FULL-ADDER)
 
 [8T FULL ADDER](#8T-FULL-ADDER)
 
@@ -26,7 +26,8 @@ Full adder logical expressions for Sum and Carry are stated below:
 ![image](https://user-images.githubusercontent.com/46755232/156183807-b0901bef-821c-45b7-be11-f4f79f8c81d7.png)
 
 
-### 28T FULL ADDER [ CONVENTIONAL FULL ADDER ]
+### 28T FULL ADDER 
+[ CONVENTIONAL FULL ADDER ]
 
 The topology consists of pull-up and pull-down network of PMOS and NMOS transistors. This design style offers good driving capability and full swing in output voltage. But the transistor count being more in the circuit results in higher power consumption and delay.
 
