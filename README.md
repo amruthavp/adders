@@ -41,6 +41,10 @@ The design is achieved by manipulating the basic equation of full adder which wi
 
 ![image](https://user-images.githubusercontent.com/46755232/156184037-e422f08d-4935-4d50-93fc-6bc72880f614.png)
 
+![image](https://user-images.githubusercontent.com/46755232/156216015-55d516e0-3188-4b68-ba49-bb37101af70d.png)
+
+28T full adder reference circuit
+
 
 ![28T FA](https://user-images.githubusercontent.com/46755232/156160340-50d90818-33d1-40ba-87ac-86ba5f8c2285.png)   
                                        28T full adder CMOS circuit
@@ -93,6 +97,10 @@ Transient analysis simulation waveforms
 
 
 ## CARRY SAVE ADDER 
+
+![image](https://user-images.githubusercontent.com/46755232/156215826-d1dfa2e7-c203-485e-ad53-61a60f6cc158.png)
+ 
+ CSA reference circuit
 
 The implentation shows 4 bit carry save adder using structural modelling  with 4 inputs. A carry-save adder (CSA) is a type of digital adder, used in computer architecture to compute the sum of three or more n-bit numbers in binary. The carry-save unit consists of n full adders, each of which computes a single sum and carry bit based solely on the corresponding bits of the three input numbers. Given the three n-bit numbers a, b, and c, it produces a partial sum ps and a shift-carry sc. The straight forward way of adding together m numbers (all n bits wide) is to add the first two, then add that sum to the next, and so on. This requires a total of m − 1 additions with a large delay due to carry propagation. Using carry save addition, the delay can be reduced further still. The idea is to take 3 numbers that we want to add together, x + y + z, and convert it into 2 numbers c + s such that x + y + z = c + s. This is achieved by using  2 CSA blocks  , and then the final Ripple carry adder block. The cin of each full adder in csa block is used as the third input
 
