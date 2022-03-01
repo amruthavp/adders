@@ -23,7 +23,7 @@ Sum = ¯C  ( A+B+Cin)+ ABC
 
 
 ![28T FA](https://user-images.githubusercontent.com/46755232/156160340-50d90818-33d1-40ba-87ac-86ba5f8c2285.png)
-                                   28T FULL ADDRER CMOS CIRCUIT
+                                                  28T full adder CMOS circuit
 
 
 ![image](https://user-images.githubusercontent.com/46755232/156161886-c928f0a6-7236-475b-bb8a-b5c868d428f8.png)
