@@ -14,7 +14,11 @@
 
 [CARRY SAVE ADDER](#CARRY-SAVE-ADDER)
 
-[ACNOLEDGEMENTS](#ACHNOLEDGEMENTS]
+[author](#AUTHOR)
+
+[ACNOLEDGEMENTS](#ACHNOLEDGEMENTS)
+
+[REFERENCE](#REFERENCE)
 
 
 ## ABSTRACT
@@ -120,6 +124,9 @@ Transient analysis of CSA simulation waveforms-1
 
 The main application of carry save algorithm is, well known for multiplier architecture and is used for efficient CMOS implementation of many wider variety of algorithms for high speed digital signal processing. 
 
+## AUTHOR
+
+Amrutha V.
 ## ACHNOLEDGEMENTS
 
 [Synopsys Inc](https://www.synopsys.com/)
@@ -127,4 +134,11 @@ The main application of carry save algorithm is, well known for multiplier archi
 [IIT Hyderabad](https://iith.ac.in/)
 
 [Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+
+## REFERENCE
+
+[1]Karthik Reddy . G, Kavitha Khare, Low Power- Area GDI & PTL based full adder designs. 
+
+[3]N.H.E.Weste.Cmosvlsidesign:Acircuitsandsys-temsperspective.https://cutt.ly/InNnZPb
+
 
