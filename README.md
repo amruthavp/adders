@@ -6,7 +6,7 @@ FULL ADDER TOPOLOGIES:
 
 Full adder logical expressions for Sum and Carry are stated below:
 
-![image](https://user-images.githubusercontent.com/46755232/156183451-f756eea2-4910-43c9-b9e2-e886ca901c30.png)
+![image](https://user-images.githubusercontent.com/46755232/156183807-b0901bef-821c-45b7-be11-f4f79f8c81d7.png)
 
 
 28T FULL ADDER [ CONVENTIONAL FULL ADDER ]:
@@ -18,9 +18,7 @@ The design is achieved by manipulating the basic equation of full adder which wi
 ![image](https://user-images.githubusercontent.com/46755232/156183582-180baa6d-719e-494d-9dcd-dab559a3d705.png)
 
 
-![28T FA](https://user-images.githubusercontent.com/46755232/156160340-50d90818-33d1-40ba-87ac-86ba5f8c2285.png)
-                                                  
-                                                  28T full adder CMOS circuit
+![28T FA](https://user-images.githubusercontent.com/46755232/156160340-50d90818-33d1-40ba-87ac-86ba5f8c2285.png)   28T full adder CMOS circuit
 
 
 ![image](https://user-images.githubusercontent.com/46755232/156161886-c928f0a6-7236-475b-bb8a-b5c868d428f8.png)
