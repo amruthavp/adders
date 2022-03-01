@@ -6,9 +6,7 @@ FULL ADDER TOPOLOGIES:
 
 Full adder logical expressions for Sum and Carry are stated below:
 
-Carry ( C ) = AB + B Cin + ACin.
-Sum = Ā¯B Cin+A¯B  ¯Cin+ ¯A  B ¯Cin+ABC
-
+![image](https://user-images.githubusercontent.com/46755232/156183451-f756eea2-4910-43c9-b9e2-e886ca901c30.png)
 
 
 28T FULL ADDER [ CONVENTIONAL FULL ADDER ]:
@@ -17,12 +15,11 @@ The topology consists of pull-up and pull-down network of PMOS and NMOS transist
 
 The design is achieved by manipulating the basic equation of full adder which will optimize the implementation is stated below. 
 
-Carry ( C ) = AB + Cin ( B + A )
-
-Sum = ¯C  ( A+B+Cin)+ ABC
+![image](https://user-images.githubusercontent.com/46755232/156183582-180baa6d-719e-494d-9dcd-dab559a3d705.png)
 
 
 ![28T FA](https://user-images.githubusercontent.com/46755232/156160340-50d90818-33d1-40ba-87ac-86ba5f8c2285.png)
+                                                  
                                                   28T full adder CMOS circuit
 
 
