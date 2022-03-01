@@ -15,10 +15,11 @@ The topology consists of pull-up and pull-down network of PMOS and NMOS transist
 
 The design is achieved by manipulating the basic equation of full adder which will optimize the implementation is stated below. 
 
-![image](https://user-images.githubusercontent.com/46755232/156183582-180baa6d-719e-494d-9dcd-dab559a3d705.png)
+![image](https://user-images.githubusercontent.com/46755232/156184037-e422f08d-4935-4d50-93fc-6bc72880f614.png)
 
 
-![28T FA](https://user-images.githubusercontent.com/46755232/156160340-50d90818-33d1-40ba-87ac-86ba5f8c2285.png)   28T full adder CMOS circuit
+![28T FA](https://user-images.githubusercontent.com/46755232/156160340-50d90818-33d1-40ba-87ac-86ba5f8c2285.png)   
+                                 28T full adder CMOS circuit
 
 
 ![image](https://user-images.githubusercontent.com/46755232/156161886-c928f0a6-7236-475b-bb8a-b5c868d428f8.png)
