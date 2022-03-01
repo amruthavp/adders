@@ -7,79 +7,29 @@ cmos based adders and topologies
 
 
 
-FA
-![image](https://user-images.githubusercontent.com/46755232/156160510-f944d592-3f4e-4d92-88b5-356f51efab01.png)
+![image](https://user-images.githubusercontent.com/46755232/156161886-c928f0a6-7236-475b-bb8a-b5c868d428f8.png)
 
 
 
-FA
+FA- 20T
+![image](https://user-images.githubusercontent.com/46755232/156162101-fcf34662-6fce-4b63-87a8-f4018acf9a72.png)
+
+![image](https://user-images.githubusercontent.com/46755232/156162189-46e084c4-b47a-42bb-a93c-aaf8db6eb7f1.png)
+
+FA - 8T
+![image](https://user-images.githubusercontent.com/46755232/156162240-168cfb7e-484a-4f64-a148-d34bce03bfe8.png)
+
+![image](https://user-images.githubusercontent.com/46755232/156162273-88388cf2-a35b-4a4f-a7a4-7c2235659bcd.png)
 
 
 
-Fa -DELAY
+CSA - 28T
 
-A- SUM:
+![image](https://user-images.githubusercontent.com/46755232/156162328-c90a2a95-cd8b-4b81-999a-d2ad62e08f8e.png)
 
+![image](https://user-images.githubusercontent.com/46755232/156162352-d8c92d50-5002-44b6-a4dc-8d632407b046.png)
 
-A- CARRY:
-
-
-
-
-
-
-
-CSA:
-
-
-
-
-
-
-
-![Uploading image.png…]()
-
-
-Fa -DELAY
-
-A- SUM:
-
-
-A- CARRY:
-
-
-
-
-
-
-
-CSA:
-
-
-
-
-
-
-
-
-FA- 8T:
-
-
-
-
-
-
-FA- 10T:
-
-
-
-
-
-
-
-
-
-FA- TG =20T
+![image](https://user-images.githubusercontent.com/46755232/156162369-ef274f7c-6e29-4d0b-b5f6-2277a1842db8.png)
 
 					
 
