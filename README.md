@@ -14,6 +14,8 @@
 
 [CARRY SAVE ADDER](#CARRY-SAVE-ADDER)
 
+[ACNOLEDGEMENTS](#ACHNOLEDGEMENTS]
+
 
 ## ABSTRACT
 
@@ -118,7 +120,7 @@ Transient analysis of CSA simulation waveforms-1
 
 The main application of carry save algorithm is, well known for multiplier architecture and is used for efficient CMOS implementation of many wider variety of algorithms for high speed digital signal processing. 
 
-## Acknowledgements
+## ACHNOLEDGEMENTS
 
 [Synopsys Inc](https://www.synopsys.com/)
 
